@@ -9,7 +9,7 @@ else:
 if last_no == 0:
     print("Last digit of {:d} is {:d} and is 0"
             .format(number, last_no))
-elif lastNumber > 5:
+elif last_no > 5:
     print("Last digit of {:d} is {:d} and is greater than 5"
             .format(number, last_no))
 else:
