@@ -10,3 +10,5 @@ def no_c(my_string):
     elif 'C' in my_string:
         my_string = my_string.translate({ord('C'): None})
         return my_string
+    else:
+        return my_string
