@@ -1,7 +1,12 @@
 #!/usr/bin/python3
 def no_c(my_string):
-    for x in my_string:
-        if x == 'C':
-            return my_string.translate({ord('C'): None})
-        elif x == 'c':
-            return my_string.translate({ord('c'): None})
+    if 'c' in my_string and 'C' in my_string:
+        my_string = my_string.translate({ord('C'): None})
+        my_string = my_string.translate({ord('c'): None})
+        return my_string
+    elif 'c' in my_string:
+        my_string = my_string.translate({ord('c'): None})
+        return my_string
+    elif 'C' in my_string:
+        my_string = my_string.translate({ord('C'): None})
+        return my_string
