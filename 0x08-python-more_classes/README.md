@@ -84,4 +84,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Jamila Moseka** - [CrisRuedaP](https://github.com/jmoseka)
+* **Jamila Moseka** - [jmoseka](https://github.com/jmoseka)
