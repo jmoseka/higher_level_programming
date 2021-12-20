@@ -3,6 +3,7 @@
 Creates a BaseGeometry class
 """
 
+
 class BaseGeometry:
     """
     Public instance method that raises an exception
