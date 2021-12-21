@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Defines MyList function"""
 
-
 class MyList(list):
     """The __init__ method initialize"""
     def __init__(self):
