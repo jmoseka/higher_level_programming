@@ -102,4 +102,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Cristina Rueda** - [CrisRuedaP](https://github.com/CrisRuedaP)
+* **Jamila Moseka** - [Jamila Moseka](https://github.com/jmoseka)
